@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Venta_Productos_Contado_Y_Crédito_[5136099]/1.0.0": {
+        "runtime": {
+          "Venta_Productos_Contado_Y_Crédito_[5136099].dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Venta_Productos_Contado_Y_Crédito_[5136099]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
