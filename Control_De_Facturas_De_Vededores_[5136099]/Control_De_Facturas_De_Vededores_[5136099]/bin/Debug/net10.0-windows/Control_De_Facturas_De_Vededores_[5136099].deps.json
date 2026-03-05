@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Control_De_Facturas_De_Vededores_[5136099]/1.0.0": {
+        "runtime": {
+          "Control_De_Facturas_De_Vededores_[5136099].dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Control_De_Facturas_De_Vededores_[5136099]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
